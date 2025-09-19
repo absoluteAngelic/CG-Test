@@ -5,3 +5,5 @@ Used each individual texture RGB channel to make the texture red, green, and blu
 LERPED between 2 textures.
 
 all using shadergraph
+
+All screenshots are in the screenshots folder
